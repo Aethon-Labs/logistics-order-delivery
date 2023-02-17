@@ -1,0 +1,9 @@
+paho-mqtt
+boto3
+mysql-connector-python
+pandas
+numpy
+scikit-learn
+tensorflow
+flask
+

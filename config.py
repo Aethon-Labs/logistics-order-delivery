@@ -1,0 +1,10 @@
+# AWS S3 Configuration
+AWS_ACCESS_KEY_ID = 'ACCESS_KEY_ID'
+AWS_SECRET_ACCESS_KEY = 'SECRET_ACCESS_KEY'
+
+# MySQL Configuration
+MYSQL_HOST = 'host'
+MYSQL_USER = 'user'
+MYSQL_PASSWORD = 'password'
+MYSQL_DATABASE = 'database'
+
